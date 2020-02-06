@@ -13,7 +13,7 @@ Most projects under this header are complete Data Analysis projects, from cleani
 
 #### Project 3
 
-### Visualizations Only###
+### Visualizations Only
 The visualizations i've created using different datasets cleaned by me or a third person.
 #### Project 1
 
