@@ -13,7 +13,7 @@ An analysis of the Obama Administration White House Visitor Logs provided by the
 
 - [Dataset Source](https://obamawhitehouse.archives.gov/briefing-room/disclosures/visitor-records)
 - [Github Link]()
-- [NbViewer - The whole code]()
+- [NbViewer - The Whole Notebook]()
 - [NbViewer - Results Only]()
 
 ### Visualizations Only
