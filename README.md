@@ -17,3 +17,13 @@ An analysis of the Obama Administration White House Visitor Logs provided by the
 
 ### Visualizations and Stories
 The visualizations and stories i've created using different datasets cleaned by me or a third person.
+
+#### A Iook Into Istanbul Metropolitan Municipality's Solid Waste Data
+
+In this project, i visualized a dataset provided by the Istanbul Metropolitan Municipality Open Data Platform using Tableau. I tried to create an overarching story about the environmental problems faced by my hometown Istanbul.
+
+- [Dataset Source](https://data.ibb.gov.tr/dataset/ilce-yil-ve-atik-turu-bazinda-atik-miktari)
+- [Medium (in English](https://medium.com/@ejgenc/a-view-into-istanbuls-greenness-istanbul-metropolitan-municipality-solid-waste-data-525ba89bb82a)
+- [Medium (in Turkish]
+- [PDF (in English)]
+- [PDF (in Turkish]
