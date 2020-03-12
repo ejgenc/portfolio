@@ -14,7 +14,6 @@ An analysis of the Obama Administration White House Visitor Logs provided by the
 - [Dataset Source](https://obamawhitehouse.archives.gov/briefing-room/disclosures/visitor-records)
 - [Github Link](https://github.com/ejgenc/portfolio/blob/master/Jupyter%20Notebooks/White%20House%20Visitor's%20Logs.ipynb)
 - [NbViewer - The Whole Notebook](https://nbviewer.jupyter.org/github/ejgenc/portfolio/blob/master/Jupyter%20Notebooks/White%20House%20Visitor%27s%20Logs.ipynb)
-- [NbViewer - Results Only]()
 
-### Visualizations Only
-The visualizations i've created using different datasets cleaned by me or a third person.
+### Visualizations and Stories
+The visualizations and stories i've created using different datasets cleaned by me or a third person.
