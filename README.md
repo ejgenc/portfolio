@@ -23,7 +23,7 @@ The visualizations and stories i've created using different datasets cleaned by 
 In this project, i visualized a dataset provided by the Istanbul Metropolitan Municipality Open Data Platform using Tableau. I tried to create an overarching story about the environmental problems faced by my hometown Istanbul.
 
 - [Dataset Source](https://data.ibb.gov.tr/dataset/ilce-yil-ve-atik-turu-bazinda-atik-miktari)
-- [Medium (in English](https://medium.com/@ejgenc/a-view-into-istanbuls-greenness-istanbul-metropolitan-municipality-solid-waste-data-525ba89bb82a)
-- [Medium (in Turkish]
-- [PDF (in English)]
-- [PDF (in Turkish]
+- [Medium (in English)](https://medium.com/@ejgenc/a-view-into-istanbuls-greenness-istanbul-metropolitan-municipality-solid-waste-data-525ba89bb82a)
+- [Medium (in Turkish](https://medium.com/@ejgenc/ibbopendataturkish-464a22d27873)
+- [PDF (in English)]()
+- [PDF (in Turkish]()
