@@ -25,5 +25,5 @@ In this project, i visualized a dataset provided by the Istanbul Metropolitan Mu
 - [Dataset Source](https://data.ibb.gov.tr/dataset/ilce-yil-ve-atik-turu-bazinda-atik-miktari)
 - [Medium (in English)](https://medium.com/@ejgenc/a-view-into-istanbuls-greenness-istanbul-metropolitan-municipality-solid-waste-data-525ba89bb82a)
 - [Medium (in Turkish)](https://medium.com/@ejgenc/ibbopendataturkish-464a22d27873)
-- [PDF (in English)]()
-- [PDF (in Turkish)]()
+- [Tableau Dashboard (in English)](https://public.tableau.com/profile/eren.janberk.gen.5075#!/vizhome/AviewintoIstanbulsgreenness-Dashboard/Dashboard)
+- [Tableau Dashboard (in Turkish)](https://public.tableau.com/profile/eren.janberk.gen.5075#!/vizhome/stanbulunyeilliinebirbak-Dashboard/Dashboard-TR)
