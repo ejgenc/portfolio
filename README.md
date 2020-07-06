@@ -41,19 +41,19 @@ This is a short project that aims to reveal some interesting patterns or possibl
 
 ##### Technical Details
 
-This project is fueled by open data and open data only.
+**This project is fueled by open data and open data only **
 
-•	Data about healthcare service providers comes from Istanbul Metropolitan Municipality’s Open Data service.
+  •	Data about healthcare service providers comes from Istanbul Metropolitan Municipality’s Open Data service.
 
-•	The geospatial data that made mapping possible comes from the OpenStreetMap database.
+  •	The geospatial data that made mapping possible comes from the OpenStreetMap database.
 
-This whole project was done with Python.
+**This project was done using Python from end to end**
 
-•	The data cleaning and analysis part relies on the Pandas package. I have done considerable amounts of cleaning and pre-processing to shape the data into a format that was easier to work with.
+  •	The data cleaning and analysis part relies on the Pandas package. I have done considerable amounts of cleaning and pre-processing to shape the data into a format that was easier to work with.
 
-•	Visualizations are done in pure Matplotlib without the help of extra packages like Seaborn. I did this as a challenge to exercise my Matplotlib skills and to learn the package in deeper detail.
+  •	Visualizations are done in pure Matplotlib without the help of extra packages like Seaborn. I did this as a challenge to exercise my Matplotlib skills and to learn the package in deeper detail.
 
-•	For geospatial data, I have used the Geopandas package which is built on top of Pandas.
+  •	For geospatial data, I have used the Geopandas package which is built on top of Pandas.
 
 ##### Links
 
