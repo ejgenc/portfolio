@@ -41,13 +41,13 @@ This is a short project that aims to reveal some interesting patterns or possibl
 
 ##### Technical Details
 
-**This project is fueled by open data and open data only.**
+This project makes use of open data and open data only.
 
   •	Data about healthcare service providers comes from Istanbul Metropolitan Municipality’s Open Data service.
 
   •	The geospatial data that made mapping possible comes from the OpenStreetMap database.
 
-**This project was done using Python from end to end.**
+This project was done using Python from end to end.
 
   •	The data cleaning and analysis part relies on the Pandas package. I have done considerable amounts of cleaning and pre-processing to shape the data into a format that was easier to work with.
 
