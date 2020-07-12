@@ -57,6 +57,6 @@ This project was done using Python from end to end.
 ##### Links
 
 - [Primary Dataset Source](#)
-- [Cleaning, Analysis & Visualization Code] (#)
+- [Cleaning, Analysis & Visualization Code](#)
 - [Medium (in English)](#)
 - [Medium (in Turkish)](https://medium.com/@ejgenc/ibbopendataturkish-464a22d27873)
