@@ -56,7 +56,7 @@ This project was done using Python from end to end.
 
 ##### Links
 
-- [Primary Dataset Source](#)
+- [Primary Dataset Source](https://data.ibb.gov.tr/en/dataset/istanbul-saglik-kurum-ve-kuruluslari-verisi)
 - [Source Code](#)
 - [Medium (in English)](#)
-- [Medium (in Turkish)](https://medium.com/@ejgenc/ibbopendataturkish-464a22d27873)
+- [Medium (in Turkish)](#)
