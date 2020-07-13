@@ -17,8 +17,8 @@ Istanbul is the name of the giant metropolis that i was born and raised in. I de
 
 #### A Look Into Istanbul Metropolitan Municipality's Solid Waste Data
 
-![Solid Waste Bar Chart](/Portfolio Media/A Comparison of District - Level Domestic Waste per Person and the Total Domestic Waste Produced per District in 2019.png)
-Format: ![Alt Text](url)
+![Solid Waste Bar Chart](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/A%20Comparison%20of%20District%20-%20Level%20Domestic%20Waste%20per%20Person%20and%20the%20Total%20Domestic%20Waste%20Produced%20per%20District%20in%202019.png)
+
 
 ##### What is this?
 
