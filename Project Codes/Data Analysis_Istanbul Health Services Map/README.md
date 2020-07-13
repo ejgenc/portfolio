@@ -27,5 +27,5 @@ This is a short report – like project that aims to reveal some interesting pat
 ## External Links
 
 - [Primary Dataset Source](https://data.ibb.gov.tr/en/dataset/istanbul-saglik-kurum-ve-kuruluslari-verisi)
-- [Medium (in English)](#)
+- [Medium (in English)](https://towardsdatascience.com/an-exercise-in-open-data-mapping-istanbuls-health-services-df145375dc4e)
 - [Medium (in Turkish)](#)
