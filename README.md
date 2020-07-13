@@ -35,7 +35,11 @@ The data required minimal cleaning which was done through the Python package Pan
 - [Tableau Dashboard (in English)](https://public.tableau.com/profile/eren.janberk.gen.5075#!/vizhome/AviewintoIstanbulsgreenness-Dashboard/Dashboard)
 - [Tableau Dashboard (in Turkish)](https://public.tableau.com/profile/eren.janberk.gen.5075#!/vizhome/stanbulunyeilliinebirbak-Dashboard/Dashboard-TR)
 
+* * *
+
 #### An Exercise in Open Data: Mapping Istanbul's Health Services
+
+![Istanbul Map](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/map_eng.png)
 
 ##### What is this?
 
