@@ -17,6 +17,8 @@ Istanbul is the name of the giant metropolis that i was born and raised in. I de
 
 #### A Look Into Istanbul Metropolitan Municipality's Solid Waste Data
 
+![Solid Waste Bar Chart](Portfolio Media/A Comparison of District - Level Domestic Waste per Person and the Total Domestic Waste Produced per District in 2019.png)
+
 ##### What is this?
 
 In this project, i visualized a dataset provided by the Istanbul Metropolitan Municipality Open Data Platform using Tableau. I tried to create an overarching story about the environmental problems faced by my hometown Istanbul.
