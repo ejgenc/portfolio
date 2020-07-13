@@ -1,5 +1,7 @@
 # An Exercise in Open Data: Mapping Istanbul’s Health Services
 
+![Header](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/map_eng.png)
+
 ## What is this?
 
 This is a short report – like project that aims to reveal some interesting patterns or possible inequalities regarding the distribution of health services in my home city Istanbul. It also serves as a hands-on project where I get to exercise my data manipulation and visualization skills in **Python.**
