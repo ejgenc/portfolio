@@ -8,17 +8,12 @@ Here's a repository where you can find my data analysis projects. Most of these 
 
 ## Projects
 
-
----
-
+* * *
 
 ### Making sense of my hometown Istanbul through open - source urban data
 Istanbul is the name of the giant metropolis that i was born and raised in. I decided to base off a series of projects on this giant city so that i could contribute a little to the pool of knowledge about it. Most of the datasets that i used to conduct analysis are drawn from open source databases. The projects are published in both English and Turkish to engage a broader audience. You can access all the data analysis projects about Istanbul under this header!
 
 #### A Look Into Istanbul Metropolitan Municipality's Solid Waste Data
-
-![Solid Waste Bar Chart](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/A%20Comparison%20of%20District%20-%20Level%20Domestic%20Waste%20per%20Person%20and%20the%20Total%20Domestic%20Waste%20Produced%20per%20District%20in%202019.png)
-
 
 ##### What is this?
 
@@ -38,8 +33,6 @@ The data required minimal cleaning which was done through the Python package Pan
 * * *
 
 #### An Exercise in Open Data: Mapping Istanbul's Health Services
-
-![Istanbul Map](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/map_eng.png)
 
 ##### What is this?
 
