@@ -28,4 +28,4 @@ This is a short report – like project that aims to reveal some interesting pat
 
 - [Primary Dataset Source](https://data.ibb.gov.tr/en/dataset/istanbul-saglik-kurum-ve-kuruluslari-verisi)
 - [Medium (in English)](https://towardsdatascience.com/an-exercise-in-open-data-mapping-istanbuls-health-services-df145375dc4e)
-- [Medium (in Turkish)](#)
+- [Medium (in Turkish)](https://medium.com/@ejgenc/i%CC%87stanbulun-sa%C4%9Fl%C4%B1k-hizmetlerini-haritalamak-bir-a%C3%A7%C4%B1k-veri-egzersizi-9fc21a2ce049)
