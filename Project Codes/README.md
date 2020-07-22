@@ -2,6 +2,42 @@
 
 ## This repository holds the codes for each of my data analysis and visualizations projects. For my portfolio that explains these projects, please [refer to this link.](https://ejgenc.github.io/portfolio/) You can also look at individual folders to see source code / a little bit of explanation.
 
+    # Personal Data Analysis/Science Project Template
+
+This is a Cookiecutter template that i personally use for my data analysis/science projects. The template is based on a version of the ![DrivenData Cookiecutter Data Science project template.]("https://drivendata.github.io/cookiecutter-data-science/") It is a heavily simplifed version that only includes tools that facilitate Readme file creation, environment creation and DAG structure implementation.
+
+## Requirements to use the cookiecutter template:
+-----------
+ - Python 2.7 or 3.5
+ - [Cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 1.4.0: This can be installed with pip by or conda depending on how you manage your Python packages:
+
+``` bash
+$ pip install cookiecutter
+```
+
+or
+
+``` bash
+$ conda config --add channels conda-forge
+$ conda install cookiecutter
+```
+
+
+## To start a new project, run:
+------------
+
+    cookiecutter https://github.com/GITHUB LINK
+
+
+[![asciicast](https://asciinema.org/a/244658.svg)](https://asciinema.org/a/244658)
+
+
+### The resulting directory structure
+------------
+
+The directory structure of your new project looks like this: 
+
+```
 ├── LICENSE            < - License for the codes responsible in creating this data analysis projects.
     |
     |
@@ -51,4 +87,7 @@
     │   │
     │   └── visualization           <- Scripts to create exploratory and results oriented visualizations
     │       └── visualize_data.py   <- Final script to run all visualization subscripts.
+    
+```
+
 
