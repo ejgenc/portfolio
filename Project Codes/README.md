@@ -40,9 +40,7 @@ The project files that i present offer two ways to do this for to account for th
 
 You can use this option if you have the conda package manager installed in your computer. The preferred method is to cd to the directory of the project and then run the following command in the Anaconda prompt (or any terminal where you can run conda from):
 
---------
-conda env create -f environment.yml
---------
+<conda env create -f environment.yml>
 
 Running this command will make conda create a new environment similar to the environment of the analysis with the information provided inside the environment.yml file. When you run the command, you will be able to specify the name of this new environment. Once you are done, **don't forget to activate your environment before running the analysis.**
 
@@ -53,9 +51,7 @@ It is still possible to recreate the original environment if you are not using t
 
 Once you have created your environment, you can now install all the packages using the requirements.txt file. To do so, **activate your virtual environment**, cd to the project folder and run the following in a Python terminal:
 
---------
-pip install --requirement requirements.txt
---------
+<pip install --requirement requirements.txt>
 
 #### 2.) Second Way ####
 
