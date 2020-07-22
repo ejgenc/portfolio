@@ -90,8 +90,8 @@ The directory structure of your new project looks like this:
     
 ```
 
-```
 --------
+```
     ├── LICENSE            < - License for the codes responsible in creating this data analysis projects.
     |
     |
