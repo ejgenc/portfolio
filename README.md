@@ -2,7 +2,7 @@
 
 **Hello there!**
 
-Here's a repository where you can find my data analysis projects. Most of these projects are projects that i've worked on in my free time, independent from my field of study
+Here's a page where you can find my data analysis projects. Most of these projects are projects that i've worked on in my free time, independent from my field of study.
 
 **I hope that you'll find something that catches your interest!**
 
@@ -57,7 +57,7 @@ This project was done using Python from end to end.
 ##### Links
 
 - [Primary Dataset Source](https://data.ibb.gov.tr/en/dataset/istanbul-saglik-kurum-ve-kuruluslari-verisi)
-- [Source Code](https://github.com/ejgenc/portfolio/tree/master/Project%20Codes/Data%20Analysis_Istanbul%20Health%20Services%20Map)
+- [Source Code](https://github.com/ejgenc/Data-Analysis_Istanbul-Health-Services-Map)
 - [Medium (in English)](https://towardsdatascience.com/an-exercise-in-open-data-mapping-istanbuls-health-services-df145375dc4e)
 - [Medium (in Turkish)](https://medium.com/@ejgenc/i%CC%87stanbulun-sa%C4%9Fl%C4%B1k-hizmetlerini-haritalamak-bir-a%C3%A7%C4%B1k-veri-egzersizi-9fc21a2ce049)
 
