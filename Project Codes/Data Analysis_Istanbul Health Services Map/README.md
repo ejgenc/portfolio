@@ -20,7 +20,7 @@ This is a short report – like project that aims to reveal some interesting pat
 
 * Visualizations are created using **Matplotlib** without the help of extra packages like Seaborn. I did this as a challenge to exercise my Matplotlib skills and to learn the package in deeper detail.
 
-* One data visulization was created using **Inkscape vector** graphics editor.
+* One data visulization was created using **Inkscape** vector graphics editor.
 
 * For geospatial data, I have used the **Geopandas** package which is built on top of Pandas.
 
