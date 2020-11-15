@@ -8,12 +8,14 @@ Here's a page where you can find my data analysis projects. Most of these projec
 
 ## Projects
 
-* * *
-
 ### Making sense of my hometown Istanbul through open - source urban data
 Istanbul is my hometown. I decided to base off a series of projects on this giant city so that i could contribute a little to the pool of knowledge about it. Most of the datasets that i used to conduct analysis are drawn from open source databases. The projects are published in both English and Turkish to engage a broader audience.
 
+* * *
+
 #### An Exercise in Open Data: Mapping Istanbul's Health Services
+
+![An excerpt from the visualizations in the project.](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/map_eng.png)
 
 ##### What is this?
 
@@ -45,6 +47,8 @@ This project was done using Python from end to end.
 * * *
 
 #### A Look Into Istanbul Metropolitan Municipality's Solid Waste Data
+
+IMAGE
 
 ##### What is this?
 
