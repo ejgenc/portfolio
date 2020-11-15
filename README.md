@@ -15,7 +15,7 @@ Istanbul is my hometown. I decided to base off a series of projects on this gian
 
 #### An Exercise in Open Data: Mapping Istanbul's Health Services
 
-![An excerpt from the visualizations in the project.](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/map_eng.png)
+![An excerpt from the visualizations in the project.](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/image12.png)
 
 ##### What is this?
 
