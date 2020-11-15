@@ -48,7 +48,7 @@ This project was done using Python from end to end.
 
 #### A Look Into Istanbul Metropolitan Municipality's Solid Waste Data
 
-IMAGE
+![An excerpt from the visualizations in the project.](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/A%20Comparison%20of%20District%20-%20Level%20Domestic%20Waste%20per%20Person%20and%20the%20Total%20Domestic%20Waste%20Produced%20per%20District%20in%202019.png)
 
 ##### What is this?
 
