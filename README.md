@@ -10,28 +10,6 @@ Here's a page where you can find my data analysis projects. Most of these projec
 
 * * *
 
-### Making sense of my hometown Istanbul through open - source urban data
-Istanbul is the name of the giant metropolis that i was born and raised in. I decided to base off a series of projects on this giant city so that i could contribute a little to the pool of knowledge about it. Most of the datasets that i used to conduct analysis are drawn from open source databases. The projects are published in both English and Turkish to engage a broader audience. You can access all the data analysis projects about Istanbul under this header!
-
-#### A Look Into Istanbul Metropolitan Municipality's Solid Waste Data
-
-##### What is this?
-
-In this project, i visualized a dataset provided by the Istanbul Metropolitan Municipality Open Data Platform using Tableau. I tried to create an overarching story about the environmental problems faced by my hometown Istanbul.
-
-##### Technical Details
-
-The data required minimal cleaning which was done through the Python package Pandas. I have used the Tableau software to produce the visualizations.
-
-##### Links
-- [Dataset Source](https://data.ibb.gov.tr/dataset/ilce-yil-ve-atik-turu-bazinda-atik-miktari)
-- [Medium (in English)](https://medium.com/@ejgenc/a-view-into-istanbuls-greenness-istanbul-metropolitan-municipality-solid-waste-data-525ba89bb82a)
-- [Medium (in Turkish)](https://medium.com/@ejgenc/ibbopendataturkish-464a22d27873)
-- [Tableau Dashboard (in English)](https://public.tableau.com/profile/eren.janberk.gen.5075#!/vizhome/AviewintoIstanbulsgreenness-Dashboard/Dashboard)
-- [Tableau Dashboard (in Turkish)](https://public.tableau.com/profile/eren.janberk.gen.5075#!/vizhome/stanbulunyeilliinebirbak-Dashboard/Dashboard-TR)
-
-* * *
-
 #### An Exercise in Open Data: Mapping Istanbul's Health Services
 
 ##### What is this?
@@ -60,5 +38,27 @@ This project was done using Python from end to end.
 - [Source Code](https://github.com/ejgenc/Data-Analysis_Istanbul-Health-Services-Map)
 - [Medium (in English)](https://towardsdatascience.com/an-exercise-in-open-data-mapping-istanbuls-health-services-df145375dc4e)
 - [Medium (in Turkish)](https://medium.com/@ejgenc/i%CC%87stanbulun-sa%C4%9Fl%C4%B1k-hizmetlerini-haritalamak-bir-a%C3%A7%C4%B1k-veri-egzersizi-9fc21a2ce049)
+
+* * *
+
+### Making sense of my hometown Istanbul through open - source urban data
+Istanbul is my hometown. I decided to base off a series of projects on this giant city so that i could contribute a little to the pool of knowledge about it. Most of the datasets that i used to conduct analysis are drawn from open source databases. The projects are published in both English and Turkish to engage a broader audience.
+
+#### A Look Into Istanbul Metropolitan Municipality's Solid Waste Data
+
+##### What is this?
+
+In this project, i visualized a dataset provided by the Istanbul Metropolitan Municipality Open Data Platform using Tableau. I tried to create an overarching story about the environmental problems faced by my hometown Istanbul.
+
+##### Technical Details
+
+The data required minimal cleaning which was done through the Python package Pandas. I have used the Tableau software to produce the visualizations.
+
+##### Links
+- [Dataset Source](https://data.ibb.gov.tr/dataset/ilce-yil-ve-atik-turu-bazinda-atik-miktari)
+- [Medium (in English)](https://medium.com/@ejgenc/a-view-into-istanbuls-greenness-istanbul-metropolitan-municipality-solid-waste-data-525ba89bb82a)
+- [Medium (in Turkish)](https://medium.com/@ejgenc/ibbopendataturkish-464a22d27873)
+- [Tableau Dashboard (in English)](https://public.tableau.com/profile/eren.janberk.gen.5075#!/vizhome/AviewintoIstanbulsgreenness-Dashboard/Dashboard)
+- [Tableau Dashboard (in Turkish)](https://public.tableau.com/profile/eren.janberk.gen.5075#!/vizhome/stanbulunyeilliinebirbak-Dashboard/Dashboard-TR)
 
 * * *
