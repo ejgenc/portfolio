@@ -15,7 +15,11 @@ Istanbul is my hometown. I decided to base off a series of projects on this gian
 
 #### A Tribute to My Wrongness: How Health Tourism Interacts with Airbnb Rents in Istanbul ####
 
-![A visualization from the project.](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/confirmation_collage_eng.png)
+##### Links
+
+- [Source Code](https://github.com/ejgenc/Data-Analysis_Istanbul-Health-Tourism)
+- [Medium Article (in English)](#)
+- [Medium Article (in Turkish)](#)
 
 ##### What is this?
 
@@ -39,17 +43,16 @@ The geospatial analysis portion of the project is done with the help of the foll
 
 Packages such as **Selenium, Numpy, Pandas, Matplotlib and Seaborn** were also used in the scraping, the processing, the analysis and the visualization of the data.
 
-##### Links
-
-- [Source Code](https://github.com/ejgenc/Data-Analysis_Istanbul-Health-Tourism)
-- [Medium (in English)](#)
-- [Medium (in Turkish)](#)
-
 * * *
 
 #### An Exercise in Open Data: Mapping Istanbul's Health Services
 
-![A visualization from the project.](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/image12.png)
+##### Links
+
+- [Primary Dataset Source](https://data.ibb.gov.tr/en/dataset/istanbul-saglik-kurum-ve-kuruluslari-verisi)
+- [Source Code](https://github.com/ejgenc/Data-Analysis_Istanbul-Health-Services-Map)
+- [Medium Article (in English)](https://towardsdatascience.com/an-exercise-in-open-data-mapping-istanbuls-health-services-df145375dc4e)
+- [Medium Article (in Turkish)](https://medium.com/@ejgenc/i%CC%87stanbulun-sa%C4%9Fl%C4%B1k-hizmetlerini-haritalamak-bir-a%C3%A7%C4%B1k-veri-egzersizi-9fc21a2ce049)
 
 ##### What is this?
 
@@ -71,18 +74,16 @@ This project was done using Python from end to end.
 
   •	For geospatial data, I have used the Geopandas package which is built on top of Pandas.
 
-##### Links
-
-- [Primary Dataset Source](https://data.ibb.gov.tr/en/dataset/istanbul-saglik-kurum-ve-kuruluslari-verisi)
-- [Source Code](https://github.com/ejgenc/Data-Analysis_Istanbul-Health-Services-Map)
-- [Medium (in English)](https://towardsdatascience.com/an-exercise-in-open-data-mapping-istanbuls-health-services-df145375dc4e)
-- [Medium (in Turkish)](https://medium.com/@ejgenc/i%CC%87stanbulun-sa%C4%9Fl%C4%B1k-hizmetlerini-haritalamak-bir-a%C3%A7%C4%B1k-veri-egzersizi-9fc21a2ce049)
-
 * * *
 
 #### A Look Into Istanbul Metropolitan Municipality's Solid Waste Data
 
-![A visualization from the project.](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/A%20Comparison%20of%20District%20-%20Level%20Domestic%20Waste%20per%20Person%20and%20the%20Total%20Domestic%20Waste%20Produced%20per%20District%20in%202019.png)
+##### Links
+- [Dataset Source](https://data.ibb.gov.tr/dataset/ilce-yil-ve-atik-turu-bazinda-atik-miktari)
+- [Medium Article (in English)](https://medium.com/@ejgenc/a-view-into-istanbuls-greenness-istanbul-metropolitan-municipality-solid-waste-data-525ba89bb82a)
+- [Medium Article (in Turkish)](https://medium.com/@ejgenc/ibbopendataturkish-464a22d27873)
+- [Tableau Dashboard (in English)](https://public.tableau.com/profile/eren.janberk.gen.5075#!/vizhome/AviewintoIstanbulsgreenness-Dashboard/Dashboard)
+- [Tableau Dashboard (in Turkish)](https://public.tableau.com/profile/eren.janberk.gen.5075#!/vizhome/stanbulunyeilliinebirbak-Dashboard/Dashboard-TR)
 
 ##### What is this?
 
@@ -91,12 +92,5 @@ In this project, i visualized a dataset provided by the Istanbul Metropolitan Mu
 ##### Technical Details
 
 The data required minimal cleaning which was done through the Python package Pandas. I have used the Tableau software to produce the visualizations.
-
-##### Links
-- [Dataset Source](https://data.ibb.gov.tr/dataset/ilce-yil-ve-atik-turu-bazinda-atik-miktari)
-- [Medium (in English)](https://medium.com/@ejgenc/a-view-into-istanbuls-greenness-istanbul-metropolitan-municipality-solid-waste-data-525ba89bb82a)
-- [Medium (in Turkish)](https://medium.com/@ejgenc/ibbopendataturkish-464a22d27873)
-- [Tableau Dashboard (in English)](https://public.tableau.com/profile/eren.janberk.gen.5075#!/vizhome/AviewintoIstanbulsgreenness-Dashboard/Dashboard)
-- [Tableau Dashboard (in Turkish)](https://public.tableau.com/profile/eren.janberk.gen.5075#!/vizhome/stanbulunyeilliinebirbak-Dashboard/Dashboard-TR)
 
 * * *
