@@ -13,9 +13,43 @@ Istanbul is my hometown. I decided to base off a series of projects on this gian
 
 * * *
 
+#### A Tribute to My Wrongness: How Health Tourism Interacts with Airbnb Rents in Istanbul ####
+
+![A visualization from the project.](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/confirmation_collage_eng.png)
+
+##### What is this?
+
+Motivated by my previous data analysis project about the distribution of health services across Istanbul, I have come up with another urban data analysis project. This time, I am looking at various datasets to see whether there is some kind of a linear or monotonic relationship in between the price of an Airbnb rental and its closeness to a health tourism institution.
+
+##### Technical Details
+
+This project features a few major technical improvements over the last one. **I've organized the whole analysis with reproducibility in mind.**
+To ensure succesful replication, I've created a minimal packaging of the project, the environment and the steps that are needed to reproduce the analysis.
+The following Python packages were used to ensure replicability:
+
+* [**doit**](https://pydoit.org/) --> A Python build tool like _Make_ that is used to order all the scripts in a pipeline fashion.
+* [**pytest**](https://docs.pytest.org/en/stable/) --> Used in unit testing helper functions and doing data quality testing on intermediate datasets.
+
+The geospatial analysis portion of the project is done with the help of the following packages:
+
+* [**GeoPandas**](https://geopandas.org/) --> Pandas for geospatial data, supports metadata such as CRS.
+* [**Shapely**](https://shapely.readthedocs.io/en/stable/manual.html) --> A Python package that handles geometric objects such as points and polygons.
+* [**Geopy**](https://geopy.readthedocs.io/en/stable/) --> A Python package for GIS operations such as geocoding and distance calculation.
+* [**Contextily**](https://github.com/geopandas/contextily) --> A Python package that provides basemap functionality.
+
+Packages such as **Selenium, Numpy, Pandas, Matplotlib and Seaborn** were also used in the scraping, the processing, the analysis and the visualization of the data.
+
+##### Links
+
+- [Source Code](https://github.com/ejgenc/Data-Analysis_Istanbul-Health-Tourism)
+- [Medium (in English)](#)
+- [Medium (in Turkish)](#)
+
+* * *
+
 #### An Exercise in Open Data: Mapping Istanbul's Health Services
 
-![An excerpt from the visualizations in the project.](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/image12.png)
+![A visualization from the project.](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/image12.png)
 
 ##### What is this?
 
@@ -48,7 +82,7 @@ This project was done using Python from end to end.
 
 #### A Look Into Istanbul Metropolitan Municipality's Solid Waste Data
 
-![An excerpt from the visualizations in the project.](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/A%20Comparison%20of%20District%20-%20Level%20Domestic%20Waste%20per%20Person%20and%20the%20Total%20Domestic%20Waste%20Produced%20per%20District%20in%202019.png)
+![A visualization from the project.](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/A%20Comparison%20of%20District%20-%20Level%20Domestic%20Waste%20per%20Person%20and%20the%20Total%20Domestic%20Waste%20Produced%20per%20District%20in%202019.png)
 
 ##### What is this?
 
