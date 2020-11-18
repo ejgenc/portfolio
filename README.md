@@ -18,8 +18,8 @@ Istanbul is my hometown. I decided to base off a series of projects on this gian
 ##### Links
 
 - [Source Code](https://github.com/ejgenc/Data-Analysis_Istanbul-Health-Tourism)
-- [Medium Article (in English)](#)
-- [Medium Article (in Turkish)](#)
+- [Medium Article (in English)](https://ejgenc.medium.com/a-tribute-to-my-wrongness-istanbul-data-analysis-2c4f63176dc6)
+- [Medium Article (in Turkish)](https://ejgenc.medium.com/istanbul-saglik-turizmi-d4ffd0694ddf)
 
 ##### What is this?
 
