@@ -6,11 +6,11 @@ Below is a chronologically descending list of some of my data visualizations tha
 
 ![A 3D rotating scatterplot that shows all the metro line colors in the dataset of interest along with the average color and outlier colors.](portfolio-media/02-01-2022_1.gif)
 
-**Date**: 02-01-2022
-**Type**: Dynamic, 3D
-**Taken from**: Assignment [(Analyzing Metro lines around the world)](https://github.com/ejgenc/data-analysis_city-lines)
-**Context**: This 3D rotating scatterplot is taken from an assignment completed for the MSc Digital Humanities programme offered by KU Leuven. The visualization plots all the metro line colors in the dataset of interest, with added emphasis on the "average" color and outlier colors.
-**Tools used**: Python, Matplotlib
+- **Date**: 02-01-2022
+- **Type**: Dynamic, 3D
+- **Taken from**: Assignment [(Analyzing Metro lines around the world)](https://github.com/ejgenc/data-analysis_city-lines)
+- **Context**: This 3D rotating scatterplot is taken from an assignment completed for the MSc Digital Humanities programme offered by KU Leuven. The visualization plots all the metro line colors in the dataset of interest, with added emphasis on the "average" color and outlier colors.
+- **Tools used**: Python, Matplotlib
 
 ***
 
