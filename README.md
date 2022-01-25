@@ -4,11 +4,21 @@ Below is a chronologically descending list of some of my data visualizations tha
 
 ***
 
+![An abstract line chart that plots the "journeys" of the artists that appear in the guild register](portfolio-media/25-01-2022.png)
+
+- **Date**: 25-01-2022
+- **Type**: Static, 2D
+- **Taken from**: Assignment [(Analyzing the Cornelia dataset)](https://github.com/ejgenc/data-analysis_cornelia)
+- **Context**: This abstract 2D line chart is taken from an assignment completed for the MSc Digital Humanities programme offered by KU Leuven. The line chart plots the "journey" of the artists that appear in the guildbook of the Guild of Painters, Goldbeaters, and Stained-Glass Makers of Brussels. Each line represents an artist's journey. The ends of the lines fall on the first and the last recorded appearance year of the artist in the guildbook. The line length encodes journey length, as calculated by the time between last appearance and first appearance. The lines are ordered on the Y-axis in a chronologically ascending manner. The X-axis reflects the real entry dates of the guildbook entries. The lines are plotted with a level of transparency on purpose: the dates on which many journeys overlap appear more salient.
+- **Tools used**: Python, Matplotlib, Inkscape
+
+***
+
 ![A 3D rotating scatterplot that shows all the metro line colors in the dataset of interest along with the average color and outlier colors.](portfolio-media/02-01-2022_1.gif)
 
 - **Date**: 02-01-2022
 - **Type**: Dynamic, 3D
-- **Taken from**: Assignment [(Analyzing Metro lines around the world)](https://github.com/ejgenc/data-analysis_city-lines)
+- **Taken from**: Assignment [(Analyzing metro lines around the world)](https://github.com/ejgenc/data-analysis_city-lines)
 - **Context**: This 3D rotating scatterplot is taken from an assignment completed for the MSc Digital Humanities programme offered by KU Leuven. The visualization plots all the metro line colors in the dataset of interest, with added emphasis on the "average" color and outlier colors.
 - **Tools used**: Python, Matplotlib
 
