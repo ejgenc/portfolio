@@ -9,7 +9,7 @@ Below is a chronologically descending list of some of my data visualizations tha
 - **Date**: 29-01-2022
 - **Type**: Static, 2D
 - **Taken from**: Assignment [(Analyzing Istanbul's ferry network)](https://github.com/ejgenc/data-analysis_istanbul-ferries))
-- **Context**: This line chart visualizes the hourly average temperature readings, monthly temperature minimums & maximums and yearly temperature minimums & maximums in Istanbul for the year 2020. Lines are drawn by connecting the hourly average for each hour in 2020. Inspired by Edward R. Tufte's concept of *Multifunctioning Graphical Elements*, the Y-axis serves both as the Y-axis and a color bar through which the graphical elements that have information encoded with color can be decoded.
+- **Context**: The line chart above is taken from an assignment completed for the MSc Digital Humanities programme offered by KU Leuven. This line chart visualizes the hourly average temperature readings, monthly temperature minimums & maximums and yearly temperature minimums & maximums in Istanbul for the year 2020. Lines are drawn by connecting the hourly average for each hour in 2020. Inspired by Edward R. Tufte's concept of *Multifunctioning Graphical Elements*, the Y-axis serves both as the Y-axis and a color bar through which the data glyphs that have information encoded with color can be decoded.
 - **Tools used**: Python, Matplotlib
 
 ***
@@ -19,7 +19,7 @@ Below is a chronologically descending list of some of my data visualizations tha
 - **Date**: 29-01-2022
 - **Type**: Static, 2D
 - **Taken from**: Assignment [(Analyzing Istanbul's ferry network)](https://github.com/ejgenc/data-analysis_istanbul-ferries))
-- **Context**: The radial bar chart above displays the total passenger load of Istanbul's ferry network in 2020, sliced at the monthly level. Although not as visually accurate as a normal bar chart, this radial bar chart suits the cyclical nature of the months of a year well.
+- **Context**: This figure is taken from an assignment completed for the MSc Digital Humanities programme offered by KU Leuven. The radial bar chart above displays the total passenger load of Istanbul's ferry network in 2020, sliced at the monthly level. Although not as visually accurate as a normal bar chart, this radial bar chart suits the cyclical nature of the months of a year well.
 - **Tools used**: Python, Matplotlib, Inkscape
 
 ***
