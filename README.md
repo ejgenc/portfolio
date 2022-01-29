@@ -4,7 +4,17 @@ Below is a chronologically descending list of some of my data visualizations tha
 
 ***
 
-![An abstract line chart that plots the "journeys" of the artists that appear in the guild register](portfolio-media/25-01-2022.png)
+![A radial bar chart that displays the total passenger load of Istanbul's ferry network in 2020, separated at the monthly level.](portfolio-media/29-01-2022.png)
+
+- **Date**: 29-01-2022
+- **Type**: Static, 2D
+- **Taken from**: Assignment [(Analyzing Istanbul's ferry network)](https://github.com/ejgenc/data-analysis_istanbul-ferries))
+- **Context**: The radial bar chart above displays the total passenger load of Istanbul's ferry network in 2020, sliced at the monthly level. Although not as visually accurate as a normal bar chart, this radial bar chart suits the cyclical nature of the months of a year well.
+- **Tools used**: Python, Matplotlib, Inkscape
+
+***
+
+![An abstract line chart that plots the "journeys" of the artists that appear in the guild register.](portfolio-media/25-01-2022.png)
 
 - **Date**: 25-01-2022
 - **Type**: Static, 2D
